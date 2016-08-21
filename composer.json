@@ -1,11 +1,10 @@
 {
   "name": "adam-lenda/advanced-logging-bundle",
+  "description": "A library for logging to multiple destinations",
+  "license": "MIT",
   "autoload": {
     "psr-0" : {
       "AdvancedLoggingBundle\\" : "src/"
-    },
-    "require": {
-      "psr/log": "~1.0"
     }
   }
 }
