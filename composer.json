@@ -1,5 +1,5 @@
 {
-  "name": "AdamLenda/AdvancedLoggingBundle",
+  "name": "adam-lenda/advanced-logging-bundle",
   "autoload": {
     "psr-0" : {
       "AdamLenda\\AdvancedLoggingBundle" : "src"
