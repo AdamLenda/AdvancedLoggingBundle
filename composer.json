@@ -2,7 +2,10 @@
   "name": "adam-lenda/advanced-logging-bundle",
   "autoload": {
     "psr-0" : {
-      "AdamLenda\\AdvancedLoggingBundle" : "src"
+      "AdvancedLoggingBundle" : "src"
+    },
+    "require": {
+      "psr/log": "~1.0"
     }
   }
 }
